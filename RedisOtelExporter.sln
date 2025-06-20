@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisOtelExporter", "RedisOtelExporter\RedisOtelExporter.csproj", "{CCDEB7E5-7DE3-4C49-93BD-83DF80EB7557}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCDEB7E5-7DE3-4C49-93BD-83DF80EB7557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCDEB7E5-7DE3-4C49-93BD-83DF80EB7557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCDEB7E5-7DE3-4C49-93BD-83DF80EB7557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCDEB7E5-7DE3-4C49-93BD-83DF80EB7557}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6266AFC-50D6-47E5-AF36-2204F444ED83}
+	EndGlobalSection
+EndGlobal
