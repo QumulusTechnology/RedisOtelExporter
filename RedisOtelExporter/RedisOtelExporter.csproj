@@ -4,6 +4,11 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <Title>Qcp.RedisOtelExporter</Title>
+    <Company>Qumulus Technology</Company>
+    <Description>Redis instrumentation for streaming logs to redis for boosting the performance at exporter</Description>
+    <Copyright>Qumulus Technology</Copyright>
+    <Version>1.0.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
